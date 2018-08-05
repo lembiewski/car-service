@@ -1,4 +1,4 @@
-package com.carservice;
+package com.carsregistry.carservice;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

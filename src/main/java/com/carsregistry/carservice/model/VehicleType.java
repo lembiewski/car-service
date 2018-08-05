@@ -1,4 +1,4 @@
-package com.carservice.model;
+package com.carsregistry.carservice.model;
 
 public enum VehicleType {
     SEDAN,
